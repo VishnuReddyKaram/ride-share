@@ -1,0 +1,50 @@
+.createridebanner-container {
+    color: white;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: 400px;
+    width: 100%;
+    margin-top: 40px;
+    background-image: url(../../../Resources/layered-waves.png);
+    object-fit: cover;
+}
+
+.div-info-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: right;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.div-info-left > h2 {
+    font-size: 2.3rem;
+    margin-bottom: 10px;
+}
+
+.div-info-left > h3 {
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 1rem;
+    margin-bottom: 40px;
+}
+
+.div-banner-right {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.create-ride-banner-img {
+    height: 400px;
+    margin-left: 20px;
+    overflow: hidden;
+}
+
+.div-info-left > a {
+    width: fit-content;
+    height: fit-content;
+    margin: 0;
+    padding: 0;
+}
+

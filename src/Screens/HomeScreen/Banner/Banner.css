@@ -1,0 +1,20 @@
+.main-banner {
+    display: relative;
+    height: 410px;
+    width: 100%;
+}
+
+.img-banner {
+    display: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: cover;
+    height: 410px;
+    width: 100%;
+}
+
+/* .banner-h1 {
+    display: absolute;
+    margin-right: auto;
+    margin-left: auto;
+} */

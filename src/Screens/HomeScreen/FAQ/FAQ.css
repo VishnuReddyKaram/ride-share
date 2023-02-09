@@ -1,0 +1,22 @@
+.faq-main-container {
+    margin-top: 2rem;
+    display: grid;
+}
+
+.faq-h1, .faq-h3 {
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.faq-h3 {
+    font-size: 1rem;
+    color: rgb(0, 0, 0, 0.3);
+}
+
+.faq-ques-ans {
+    margin-top: 2rem;
+    margin-right: 6.5rem;
+    margin-left: 6.5rem;
+}

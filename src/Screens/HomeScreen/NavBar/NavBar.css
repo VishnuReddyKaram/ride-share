@@ -1,0 +1,50 @@
+.navfalse {
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+.nav-dark {
+    background-color: black;
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+}
+
+.d-inline-block {
+    object-fit: cover;
+}
+
+.div-account-image {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.img-brand-logo {
+    height: 30px;
+}
+
+.button-create-ride {
+    padding: 0.5rem 0.1rem;
+    background-color: black;
+    border: 0ch;
+}
+
+.button-create-ride > span {
+    margin: 20px;
+}
+
+.justify-content-end > a {
+    margin: 0;
+    padding: 0;
+}
+
+.justify-content-end {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1rem;
+}
+
+.account-img {
+    width: 2rem;
+    height: 2rem;
+}

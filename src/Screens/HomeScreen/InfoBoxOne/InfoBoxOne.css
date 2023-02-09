@@ -1,0 +1,16 @@
+.info-container-one {
+    margin-top: 2rem;
+    margin-right: 6.5rem;
+    margin-left: 6.5rem;
+    margin-bottom: 20px;
+    height: fit-content;
+    width:auto;
+}
+
+.info-container-one > h1 {
+    color: darkcyan;
+}
+
+.info-container-one > p {
+    text-align: justify;
+}
